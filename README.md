@@ -1,0 +1,1 @@
+This repository contains a simple example of a common but easily overlooked error in Tcl: calling a procedure with fewer arguments than it expects.  The `bug.tcl` file demonstrates the error, and `bugSolution.tcl` shows the solution.  The error may not always be immediately obvious, hence this example.
